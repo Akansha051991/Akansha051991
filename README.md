@@ -16,12 +16,12 @@ With 6+ years of hardening infotainment systems for Porsche, Audi, and Volkswage
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akansha-choudhary-9a91a0a6/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:akanshachoudhary53@gmail.com) 
 
 # 📊 GitHub Stats:
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Akansha051991&theme=blueberry)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Akansha051991&theme=monokai)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Akansha051991&theme=blueberry)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Akansha051991&theme=blueberry)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Akansha051991&theme=blueberry)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Akansha051991&theme=blueberry&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Akansha051991&theme=monokai)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Akansha051991&theme=monokai)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Akansha051991&theme=monokai)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Akansha051991&theme=monokai&utcOffset=8)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
